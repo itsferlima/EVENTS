@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=initial-scale=1.0">
+    <title>Aula 04</title>
+    <style>
+    body{
+        background-color: rgb(193, 194, 132);
+    }
+        </style>
+</head>
+<body>
+    <H1>Olá bem vindo, estou focando na programação</H1>
+        <p> Nesta página, possivel exemplo de: </p>
+        <h2>Tipos primitivos;</h2>
+    <lu>
+        <li>Números inteiros: <strong> 5, 10, -80 </strong>...</li>
+        <li>Números reais: <strong>1,0 , -15.900, 3.8 </strong>... conhecidos como FLOAT e NUMBER</li>
+        <li>String: <strong>Google, Maria, São Paulo</strong>...</li>
+        <li> TRUE e FALSE</li>
+    </lu>
+
+        <h2>Converções</h2>
+        <p>STRING>NUMBER</p>
+        <p>Usamos:</p>
+        <lu>
+            <li><strong>Number.parseInt()</strong> para numeros inteiros<li>
+            <li><strong>Number()</strong> para todos os </li>
+
+        </lu>
+
+   
+    <script>
+
+//REFRENTE A NOME/STRING
+        //var nome = window.prompt('Qual seu nome?') //pergunta o nome
+        window.alert('é um grande prazer ' + nome) //+ é usado para concatenar
+        window.write(`Seu ${nome} tem ${nome.length} letras !! Em maiusculo seu ${nome} fica assim: ${nome.toUpperCase()} !! `) // usa $() para usar a variavel guardada
+
+//REFERNTE A NUMEROS
+
+        var n1 = Number( window.prompt('Digite um numero: ')) //o comando prompt retorna string
+        var n2 = Number( window.prompt('digite mais um numero: ')) //por isso tem que usar NUMBER p fazer conversão
+        var s = n1 + n2 
+
+        //window.alert('a soma dos valores é  ' + s ) //+ é usado para concatenar
+        window.alert(`A soma entre ${n1} e ${n2} é ${s} `) // template string
+    </script>
+</body>
+</html> 
+
+ 

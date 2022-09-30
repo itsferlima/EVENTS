@@ -1,0 +1,1307 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "frame-ancestors https://rexona-studio-id.netlify.app/ https://rexona-studio-id-staging.netlify.app/"
+ 
+ [[redirects]]
+    from = "/id/home.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/wanita.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/free-spirit-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/shower-clean-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/powder-dry-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/antibacterial-defense-deodorant-spray.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/invisible-dry-deodorant-spray.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/free-spirit-deodorant-spray.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/free-spirit-deo-lotion.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/invisible-dry-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/passion-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/advanced-brightening-deodorant-spray.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/advanced-brightening-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/cerah-segar-deo-lotion.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/glowing.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/dreamy-bright.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/advance-brightening-%2B-anti-noda-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/invisible-%2B-antibacterial-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/wanita/rexona-dry-serum-natural-brightening.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/invisible-dry-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/adventure-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/sport-defense-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/ice-cool-deodorant-spray.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/invisible-dry-deodorant-spray.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/ice-cool-deo-lotion.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/ice-cool-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/ultra-recharge-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/natural-fresh-charcoal-fresh-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/natural-fresh-lime-cool-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/invisible-%2B-antibacterial-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/pria/activ-bright-roll-on.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/inovasi.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = /id/inovasi/motion-sense.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/inovasi/perlindungan-antibakterial-terhadap-bau-badan.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/inovasi/invisible-dry-black-and-white.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/inovasi/compressed.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/inovasi/maximum-protection.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = /id/inovasi/antibacterial-odour-protection_msm_moved.html
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/inovasi/rexona-dry-serum.html"
+    to = "/id/produk/"
+[[redirects]]
+    from = "/id/zona-keringat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-manfaat-mandi-air-dingin-pada-pagi-hari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/8-tips-agar-pede-berbicara-di-depan-umum.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-5-penyandang-disabilitas-yang-sukses-sebagai-entreprene.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/9-kecerdasan-majemuk-yang-perlu-diketahui-orang-tua-dan-guru.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-pendidikan-inklusif-dan-manfaatnya-bagi-siswa-difabel.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-tips-merawat-tubuh-untuk-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/8-tips-membangun-pola-dan-gaya-hidup-sehat-secara-konsisten.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ini-6-manfaat-sinar-matahari-pagi.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-perlengkapan-olahraga-lari-untuk-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/apa-itu-keringat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/keringat-berlebih.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebab-dan-cara-mengatasi-bau-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bagaimana-cara-mengurangi-keringat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/apa-itu-antiperspirant.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengatasi-keringat-berlebih.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebab-dan-cara-mengatasi-bau-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/keringat-malam.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebab-dan-cara-mencegah-noda-kuning.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/sweat-rash.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/keringat-dingin.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bau-badan-pria-dan-wanita-aktif.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/stress-sweat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/menopause.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/Keringat-berlebih-saat-hamil.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/Berkeringat-setelah-minum-obat-akibat-operasi-dan-penyakit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/food-drink-sweat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/sweaty-hands.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/Keringat-dan-bau-kaki.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/tetap-dingin-di-cuaca-panas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/sea-games-2017.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/yang-menyebabkan-kulit-ketiak-gelap-dan-cara-mengatasinya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebab-dan-cara-mengatasi-ketiak-basah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebab-dan-cara-mengatasi-bau-badan-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/kelenjar-keringat-dan-alasan-manusia-berkeringat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebab-dan-cara-menghilangkan-ketiak-hitam.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/apa-penyebab-bau-badan-pada-remaja-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cara-menghilangkan-bau-ketiak-dengan-lemon.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/masalah-keringat-berlebih--berbahayakah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-cara-memutihkan-ketiak-hitam-dengan-cepat-yang-perlu-kamu-tahu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from =/id/zona-keringat/ "/id/zona-keringat/hindari-5-kesalahan-ini-saat-menggunakan-deodorant.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-makanan-yang-dapat-bantu-menghilangkan-bau-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/begini-fungsi-kelenjar-keringat-dalam-memproduksi-keringat-tubuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cari-deodoran-untuk-atasi-bau-badan-wanita--ini-tipsnya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengapa-bau-ketiak-lebih-menyengat-dibanding-bagian-tubuh-lain-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-hal-yang-akan-terjadi-jika-manusia-tidak-berkeringat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/aman-memilih-deodoran-pemutih-ketiak-dengan-tips-ini.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/keringat-berlebih-di-malam-hari-bisa-diakibatkan-6-hal-ini.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/waspada--hiperhidrosis-juga-bisa-sebabkan-dehidrasi-saat-puasa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/untuk-hilangkan-bau-badan--hindari-konsumsi-7-makanan-ini-saat-s.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-manfaat-berkeringat-dan-berolahraga-saat-puasa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/puasa--cara-mendetox-tubuh-secara-alami-yang-kerap-tak-disadari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cari-tahu-5-cara-menghilangkan-bau-mulut-saat-puasa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/nutrisi-hingga-antiperspirant--simak-4-tips-aman-berolahraga-saa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/sambut-bulan-suci-dengan-baju-putih-bebas-noda-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-olahraga-yang-tak-akan-membuatmu-berkeringat-berlebihan-saat-p.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/deodorant-terbaik--kesegaran-lebih-lama-untuk-hari-yang-lebih-pa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/nonton-bola-di-bulan-puasa--bau-badan-hilang--inggris-pun-datang.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/rekomendasi-deodorant-spray-pria-untuk-kamu-yang-aktif-dan-produ.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengapa-pria-lebih-mudah-berkeringat-dibandingkan-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/tips-menghilangkan-bulu-ketiak-untuk-pria.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/risau-dengan-masalah-ketiak-gatal--intip-6-cara-mudah-mengatasin.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/pupuk-kepercayaan-diri-remaja-dengan-ketiak-mulus-dan-terawat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cari-tahu-manfaat-lakukan-aktivitas-fisik-di-ruang-terbuka-bagi-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/buat-nonton-bareng-piala-liga-inggris-makin-seru-dengan-7-tips-i.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-cara-mengatasi-ketiak-hitam-dengan-memanfaatkan-lemon.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/tips-memilih-deodorant-pemutih-ketiak-pria-dengan-manfaat-maksim.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/penyebabdantips-menghilangkan-flek-hitam-di-ketiak-saat-hamil.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ingin-nonton-liga-inggris-langsung--ini-tips-yang-harus-dilakuka.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cara-merawat-badan-agar-tetap-wangi-dengan-deodoran-remaja-yang-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/tips-perawatan-ketiak-hitam-berdasarkan-jenis-penyebabnya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengetahui-7-manfaat-bersepeda-secara-rutin-bagi-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/3-zat-berbahaya-yang-harus-dihindari-saat-memilih-pencerah-ketia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/manfaat-pencerah-ketiak-alami-ternyata-bisa-kamu-dapat-dari-5-ba.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-keunggulan-menggunakan-serum-pencerah-ketiak-natural-rexona.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-tips-penggunaan-deodoran-untuk-mencegah-ketiak-hitam.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/lapisan-kulit-manusia---tips-memilih-deodoran-terbaik-untuk-keti.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-rutinitas-untuk-dapatkan-ketiak-wanita-seindah-chelsea-islan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ketahui-6-bahaya-memilih-deodoran-pencerah-ketiak-sembarangan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-manfaat-memilih-deodoran-pencerah-ketiak-yang-cepat-kering.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-jenis-jenis-deodoran--mana-yang-terbaik-untukmu-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-acanthosis-nigricans--kondisi-penyebab-flek-hitam-di-ke.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mudah-hitam-hingga-gatal--ini-5-ciri-ciri-kulit-ketiak-sensitif-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/tips-perawatan-harian-agar-remaja-terhindar-dari-masalah-ketiak-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-alasan-memakai-deodoran-untuk-pria-dengan-manfaat-mencerahkan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/pria--ini-5-cara-menghilangkan-flek-hitam-di-ketiak-akibat-bercu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-serum-pencerah-ketiak-dan-5-manfaatnya-bagi-wanita1.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mitos-dan-fakta-seputar-deodorant-pencerah-ketiak-benarkah-adany.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/tips-memilih-deodoran-yang-aman-dan-nyaman-untuk-wanita-berhijab.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/jangan-biarkan-ketiak-hitam---bekas-deodoran-halangi-aktivitas-f.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/hindari-penyebab-bau-badan-berlebih-setelah-sepakbola-dengan-6-c.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-penyebab-dan-ciri-ciri-iritasi-ketiak-pada-pria.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-alasan-dry-serum-bekerja-lebih-efektif-dibanding-jenis-deodora.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-tiga-jenis-varian-rexona-dry-serum-yang-dipakai-chelsea.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-manfaat-vitamin-e-bagi-kesehatan-kulit-dan-ketiak-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-hal-yang-harus-kamu-perhatikan-saat-menggunakan-deodoran.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ketiak-kamu-hitam--yuk-kenali-5-penyebab-utamanya0.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-kombinasi-kentang-dan-bahan-alami-lainnya-untuk-mencerahkan-ke.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = /id/zona-keringat/kenali-4-penyebab-ruam-di-ketiak-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-staphylococcus-hominis--bakteri-penyebab-bau-badan-di-k.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-kondisi-ketiak-bermasalah-yang-bisa-jadi-pertanda-penyakit-lai.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bukan-hanya-untuk-makanan--ini-manfaat-akar-manis-untuk-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ini-cara-mencerahkan-ketiak-dengan-baking-soda.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ini-5-tips-mencukur-bulu-ketiak-dengan-aman.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-tips-untuk-mengatasi-keringat-bagi-kamu-yang-berhijab.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/perhatikan-5-hal-ini-sebelum-melakukan-waxing-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bagi-pria--apakah-lebih-baik-mencukur-atau-membiarkan-bulu-ketia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/sering-merasakan-gatal-di-ketiak--ini-4-penyebab-ketiak-gatal.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-fakta-manfaat-akar-manis-bagi-kesehatan-badan-dan-keaktifan-ka.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-manfaat-biji-bunga-matahari-bagi-kesehatan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-manfaat-pati-jagung-untuk-ketampanan-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-alasan-pria-keren-harus-memakai-rexona-men-ice-cool-deodorant-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-hal-menarik-pada-mc-world-trophy-tour-di-indonesia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = /id/zona-keringat/5-fakta-bekas-pemain-bintang-manchester-city-paul-dickov.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-enam-trofi-dalam-manchester-city-2019-world-trophy-tour.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ini-manfaat-air-mawar-untuk-kecantikan-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/khasiat-bunga-lily-untuk-kesehatan-kulit-dan-ketiak-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-inspirasi-kegiatan-untuk-mengisi-waktu-me-time-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-inspirasi-kegiatan-untuk-mengisi-waktu-me-time-kamu0.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-inspirasi-kegiatan-untuk-mengisi-waktu-me-time-kamu1.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-manfaat-jalan-kaki-yang-wajib-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bagi-pelajar--ini-7-cara-memotivasi-diri-agar-semangat-belajar.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-aksi-kecil-untuk-membuat-hari-orang-lain-lebih-baik.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/8-cara-menjadi-produktif-agar-menjadi-pribadi-sukses.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-tips-komunikasi-dengan-pasangan-yang-mengidap-gangguan-kecemas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-kebiasaan-pekerja-milenial-untuk-membentuk-creative-mindset.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-alasan-mengapa-self-diagnosis-tidak-dianjurkan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-tokoh-disabilitas-yang-menginspirasi-dunia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-cara-memotivasi-diri-sendiri-agar-bangkit-setelah-terjatuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-dua-jenis-bahasa-isyarat-di-indonesia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-fakta-hari-disabilitas-internasional-yang-perlu-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/yuk--mengenal-ragam-dan-hak-penyandang-disabilitas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/saling-memahami--ini-etika-berinteraksi-dengan-penyandang-disabi.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/10-tips-ampuh-agar-kamu-bisa-tampil-percaya-diri.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/jangan-cuek--ini-5-hal-yang-harus-kamu-hindari-agar-tetap-awet-m.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-tips-jitu-agar-badan-kamu-tetap-wangi-sepanjang-hari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-tips-hijab-untuk-wajah-lonjong.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ini-perbedaan-deodoran--antiperspiran--parfum--cologne-and-toile.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-cara-menegur-teman-yang-berbau-badan-tanpa-membuatnya-tersingg.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-penyakit-yang-berhubungan-dengan-produksi-keringat-berlebih.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-alasan-mengapa-merantau-membuat-kamu-menjadi-pribadi-yang-tang.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-5-atlet-disabilitas-berprestasi-di-indonesia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-pilihan-olahraga-untuk-kamu-para-pekerja-kantoran.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/10-manfaat-bunga-mawar-bagi-kulit-dan-kesehatan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mandi-saja-tidak-cukup--ini-5-tips-agar-badan-segar-sepanjang-ha.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-olahraga-pilihan-yang-bisa-dilakukan-saat-musim-hujan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-langkah-simpel-menjaga-kesehatan-mental.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-tips-berkomunikasi-dengan-teman-tuna-wicara.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/6-cara-meningkatkan-toleransi-sosial-untuk-diri-sendiri-dan-oran.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-fakta-mengenai-huruf-braille-yang-harus-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/gerak-tak-terbatas--7-fakta-tentang-pahlawan-kemanusiaan-helen-k.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-apa-itu-paraplegia--penyebab-dan-gejalanya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-fasilitas-yang-seharusnya-ada-pada-toilet-ramah-disabilitas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/melihat-lebih-dekat-fasilitas-ramah-disabilitas-di-mrt-jakarta.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/7-hal-yang-bisa-kamu-lakukan-sebagai-cara-mencegah-bullying.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-disabilitas-intelektual.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/mengenal-sejarah-bahasa-isyarat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-bahan-alami-di-rumah-untuk-masker-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-tips-penting-memilih-deodoran-untuk-ibu-hamil.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ketahui-tips-tepat-memilih-deodoran-untuk-kulit-sensitif.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/kulit-ketiak-kasar--simak-cara-efektif-mengatasinya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-cara-mengatasi-badan-bau-matahari-yang-bikin-tidak-nyaman.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/jerawat-di-ketiak--yuk--ketahui-beberapa-penyebabnya-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/minum-air-putih-bisa-membantu-mengatasi-bau-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-perawatan-kulit-ketiak-yang-mudah-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bahan-deodoran-alami-untuk-singkirkan-bau-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bahan-antibakteri-alami-yang-bisa-kamu-temukan-sehari-hari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/menjaga-kesehatan-kulit-ketiak--hindari-6-kesalahan-ini-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bahan-alami-yang-ampuh-hilangkan-bulu-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-tips-tampil-sederhana-tapi-menarik-mata-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-cara-merawat-tubuh-yang-salah-untuk-para-pria.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-cara-menumbuhkan-brewok-yang-dijamin-efektif.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/kesegaran-dari-kekuatan-alam-dengan-rexona-men-natural-fresh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/jaga-kesehatan-tubuh-saat-puasa--perhatikan-4-hal-berikut.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/semangat-ramadan-untuk-hijabers--aktif---segar-bersama-rexona.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bau-badan-bisa-disebabkan-karena-faktor-keturunan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cara-tepat-mengatasi-bau-badan-anak-saat-puber.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/cari-tahu-apa-saja-manfaat-penting-kolagen-untuk-kulit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/ragam-jenis-kulit-dan-cara-mencari-tahu-jenis-kulit-kamu-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bentuk-bisep-dan-trisep-kamu-dengan-latihan-otot-lengan-berikut-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/memahami-kondisi-orang-yang-tidak-memiliki-bau-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/apakah-pria-juga-harus-mencukur-atau-mencabut-bulu-ketiak-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bau-badan-ternyata-bisa-menandakan-kondisi-kesehatan-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/eksfoliasi-kulit--apa-itu-dan-apa-manfaatnya-untuk-kulit-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/macam-macam-gerak-otot-pada-manusia-yang-sangat-penting-untuk-tu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-manfaat-zumba-bagi-tubuh-yang-tidak-boleh-kamu-lewatkan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/4-cara-agar-pria-dapat-terlihat-lebih-mempesona.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-inspirasi-untuk-gaya-kasual-pria-setiap-hari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/bosan-di-rumah-aja--yuk--self-pampering-sederhana-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/5-vitamin-untuk-kulit-bisa-selalu-sehat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/efek-masalah-bau-badan-bagi-remaja.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/menggunakan-shaving-cream-atau-gel-ada-aturannya-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/produk-perawatan-tubuh-wanita-yang-wajib-dimiliki.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/memahami-niacinamide-pada-produk-perawatan-kulit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/topik-obrolan-seru-untuk-lebih-dekat-dengan-gebetan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/zona-keringat/efektif-workout-di-rumah-dengan-5-gerakan-ini-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/tentang-kami.html"
+    to = "/id/tentang-kami/"
+[[redirects]]
+    from = "/id/secure/hubungi-kami.html"
+    to = "/id/kontak-kami/hubungi-kami/"
+[[redirects]]
+    from = "/id/campaign.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/campaign/sea-games-2017.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/campaign/sea-games-20172.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/campaign/aplikasigeraktakterbatas.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/campaign/geraktakterbatas.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/faq.html"
+    to = "/id/faq/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/6-pilihan-olahraga-untuk-kamu-para-pekerja-kantoran.html"
+    to = "/id/ayo-bergerak/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-manfaat-jalan-kaki-yang-wajib-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/10-tips-ampuh-agar-kamu-bisa-tampil-percaya-diri.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/6-tips-jitu-agar-badan-kamu-tetap-wangi-sepanjang-hari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-tips-hijab-untuk-wajah-lonjong.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jangan-cuek--ini-5-hal-yang-harus-kamu-hindari-agar-tetap-awet-m.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/ini-perbedaan-deodoran--antiperspiran--parfum--cologne-and-toile.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-menegur-teman-yang-berbau-badan-tanpa-membuatnya-tersingg.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = /id/gerak-tak-terbatas/7-alasan-mengapa-merantau-membuat-kamu-menjadi-pribadi-yang-tang.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-5-atlet-disabilitas-berprestasi-di-indonesia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-penyakit-yang-berhubungan-dengan-produksi-keringat-berlebih.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-inspirasi-kegiatan-untuk-mengisi-waktu-me-time-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/bagi-pelajar--ini-7-cara-memotivasi-diri-agar-semangat-belajar.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-aksi-kecil-untuk-membuat-hari-orang-lain-lebih-baik.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-komunikasi-dengan-pasangan-yang-mengidap-gangguan-kecemas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-alasan-mengapa-self-diagnosis-tidak-dianjurkan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/8-cara-menjadi-produktif-agar-menjadi-pribadi-sukses.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-kebiasaan-pekerja-milenial-untuk-membentuk-creative-mindset.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-tokoh-disabilitas-yang-menginspirasi-dunia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-cara-memotivasi-diri-sendiri-agar-bangkit-setelah-terjatuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-dua-jenis-bahasa-isyarat-di-indonesia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/yuk--mengenal-ragam-dan-hak-penyandang-disabilitas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/saling-memahami--ini-etika-berinteraksi-dengan-penyandang-disabi.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-fakta-hari-disabilitas-internasional-yang-perlu-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-olahraga-pilihan-yang-bisa-dilakukan-saat-musim-hujan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-langkah-simpel-menjaga-kesehatan-mental.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/6-tips-berkomunikasi-dengan-teman-tuna-wicara.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-fakta-mengenai-huruf-braille-yang-harus-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/6-cara-meningkatkan-toleransi-sosial-untuk-diri-sendiri-dan-oran.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/gerak-tak-terbatas--7-fakta-tentang-pahlawan-kemanusiaan-helen-k.html"
+    to = "/id/zona-keringat/
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/melihat-lebih-dekat-fasilitas-ramah-disabilitas-di-mrt-jakarta.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-fasilitas-yang-seharusnya-ada-pada-toilet-ramah-disabilitas.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-apa-itu-paraplegia--penyebab-dan-gejalanya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-hal-yang-bisa-kamu-lakukan-sebagai-cara-mencegah-bullying.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-disabilitas-intelektual.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/8-tips-agar-pede-berbicara-di-depan-umum.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/9-kecerdasan-majemuk-yang-perlu-diketahui-orang-tua-dan-guru.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-sejarah-bahasa-isyarat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/apa-itu-implan-koklea--manfaat-dan-cara-kerjanya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-5-penyandang-disabilitas-yang-sukses-sebagai-entreprene.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-pendidikan-inklusif-dan-manfaatnya-bagi-siswa-difabel.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-perlengkapan-olahraga-lari-untuk-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/ini-6-manfaat-sinar-matahari-pagi.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/8-tips-membangun-pola-dan-gaya-hidup-sehat-secara-konsisten.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-merawat-tubuh-untuk-wanita.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-lari-estafet--sejarah--teknik-dan-peraturannya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/8-manfaat-tenis-meja-bagi-kesehatan-tubuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-6-macam-lari-dalam-olahraga-atletik.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-latihan-olahraga-untuk-merampingkan-perut.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/9-peralatan-wajib-ketika-berenang-bersama-keluarga.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-jenis-pemanasan-yang-wajib-dilakukan-sebelum-olahraga-lari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/9-cara-mencegah-penularan-virus-corona.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/ini-8-cara-menjaga-kesehatan-jantung-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/8-jenis-olahraga-untuk-menurunkan-berat-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/6-jenis-olahraga-sederhana-sebelum-tidur-dan-manfaatnya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-manfaat-olahraga-basket-untuk-kesehatan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/7-manfaat-olahraga-bulutangkis-untuk-kesehatan-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-olahraga-di-rumah-biar-tetap-sehat-di-masa-isolasi.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jaga-bentuk-tubuh-dengan-5-olahraga-kardio-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-work-from-home-nyaman-dan-tetap-fokus.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/benarkah-berjemur-matahari-pagi-bisa-bunuh-virus-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-aktivitas-seru-saat-liburan-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/cegah-penularan-virus-corona--5-cara-jaga-kebersihan-diri.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jaga-kesehatan-dengan-5-gerakan-yoga-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-buat-rumah-jadi-lebih-higienis.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-hidup-sehat-untuk-tubuh-kuat-menangkal-virus.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/perut-tetap-ramping-dengan-5-gerakan-olahraga-diet-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-langkah-bersih-bersih-rumah-dengan-cepat-dan-efektif.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-puasa-tubuh-tetap-sehat-dan-bugar.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-menjaga-kesehatan-saat-puasa-di-musim-hujan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/merawat-tubuh-di-rumah--bisa-dan-mudah-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/detox-tubuh-dengan-berpuasa--bagaimana-caranya-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/sering-olahraga-malam--apakah-baik-untuk-kesehatan-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/kenali-5-bagian-tubuh-yang-jadi-sarang-bakteri.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-efektif-hindari-bau-badan-saat-puasa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-cara-membersihkan-badan-di-rumah-agar-tetap-sehat-selama-berpu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/kenali-5-penyebab-utama-kulit-kering.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/kenapa-latihan-keseimbangan-penting-untuk-tubuh-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/3-kegiatan-sosial-kaum-difabel-dalam-melawan-virus-corona.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/bagaimana-cara-olahraga-yang-aman-saat-puasa-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-aktivitas-yang-bikin-ngabuburit-jadi-lebih-seru-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/yuk--ketahui-kapan-waktu-yang-tepat-untuk-olahraga-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/hal-penting-yang-harus-diketahui-untuk-latihan-angkat-beban.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/kebugaran-jasmani-dan-manfaatnya-untuk-kesehatan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-jenis-jenis-tes-virus-corona-di-indonesia.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/yuk--cek-dan-ketahui-protokol-kesehatan-menuju-new-normal-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = /id/gerak-tak-terbatas/cara-aman-naik-angkutan-umum-saat-new-normal.html
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/macam-macam-masker-dan-penggunaannya-untuk-menghadapi-new-normal.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/menjaga-kebersihan-diri-untuk-terhindar-dari-penularan-virus-cor.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/yuk--kenali-4-olahraga-tradisional-dari-indonesia-ini-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/rutin-lari-pagi-dan-rasakan-5-manfaat-pentingnya-untuk-tubuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-manfaat-fitness-untuk-menjaga-kesehatan-tubuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-tujuan-olahraga-basket-selain-untuk-olahraga.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-jaga-daya-tahan-tubuh-agar-tetap-sehat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-manfaat-olahraga-beladiri-untuk-kesehatan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-latihan-kecepatan-untuk-membuat-tubuh-lebih-gesit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/sibuk--coba-5-olahraga-ringan-berikut-agar-tubuh-tetap-bugar.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/vitamin-penting-untuk-jaga-daya-tahan-tubuh-di-masa-new-normal.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/tahapan-psikologis-memasuki-new-normal--apa-saja-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/olahraga-saat-new-normal--simak-hal-hal-berikut-ini.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/apa-saja-teknik-dasar-sepak-bola--yang-ngaku-penggemarnya-harus-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/olahraga-lompat-tali-tak-hanya-sekedar-lompat--simak-5-manfaatny.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-manfaat-senam-pagi-untuk-kesehatan-tubuh-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/cara-cermat-dalam-memilih-sepatu-olahraga-yang-tepat.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/pemanasan-sebelum-olahraga-itu-penting--simak-5-manfaatnya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-ide-lomba-online-di-rumah-untuk-rayakan-17-agustus-an.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/-menghilangkan-bau-ketiak-bisa-dengan-jeruk-nipis--seperti-apa-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-olahraga-atau-latihan-daya-tahan-tubuh-yang-bisa-kamu-coba.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-manfaat-utama-dari-lari-sore-yang-bisa-kamu-rasakan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/pernah-merasa-insecure--pahami-seperti-apa-dan-cara-mengatasinya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/hidup-lebih-tenang-dengan-5-cara-berpikir-positif-berikut.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/memahami-self-esteem-dan-apa-pentingnya-untuk-dirimu-sendiri-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-manfaat-olahraga-bola-voli-yang-perlu-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-macam-olahraga-untuk-meninggikan-badan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/ketahui-apa-saja-jenis-jenis-olahraga-senam.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-ciri-kulit-sensitif-yang-perlu-kamu-ketahui.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-gerakan-pendinginan-yang-penting-dilakukan-setelah-olahraga.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/raih-pekerjaan-idaman-kamu-dengan-tips-interview-berikut.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-cara-olahraga-yang-benar-untuk-dapatkan-hasil-maksimal.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-chat-pdkt--dijamin-doi-luluh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-aroma-terbaik-pada-parfum-pria.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/men-s-grooming-buat-para-pria-untuk-tampil-percaya-diri.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/audiens-tidak-berpaling-dengan-5-cara-presentasi-yang-baik.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenali-manfaat-vitamin-b3-untuk-kulit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/hidung-berkeringat--apa-yang-perlu-diketahui-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-olahraga-mengecilkan-paha-yang-mudah-dan-efektif.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/6-manfaat-charcoal-untuk-kesehatan-dan-kecantikan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/memahami-apa-saja-skincare-untuk-pria-itu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-manfaat-latihan-fisik-untuk-kesehatan-tubuh-dan-mental.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/memahami-waxing-rambut--apakah-lebih-baik-dari-mencukur-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-gerakan-hiit-cardio-yang-efektif-bakar-lemak-untuk-pemula.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-tips-move-on--dijamin-gebetan-pasti-berlalu-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-cara-menghilangkan-noda-deodoran-di-baju-yang-ampuh-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-kesalahan-male-grooming-yang-sering-dilakukan-para-pria.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/cara-melatih-public-speaking-dan-manfaatnya-untuk-dirimu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/bebas-grogi-dan-tampil-percaya-diri-dengan-5-cara-ini-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/merawat-kulit-ketiak-sensitif-tidak-hanya-soal-memilih-deodoran.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-pekerjaan-rumah-ini-sudah-sama-dengan-olahraga-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-cara-tepat-hilangkan-bulu-di-ketiak.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/apa-saja-peralatan-penting-untuk-perawatan-muka-pria-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-latihan-dan-cara-membentuk-otot-perut--dijamin-six-pack-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-manfaat-olahraga-malam-buat-kamu-yang-super-sibuk.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/tingkatkan-kualitas-hidup-dengan-lebih-mengenal-diri-sendiri.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/tertarik-mencoba-jalan-cepat--pahami-teknik---manfaatnya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/tingkatkan-dirimu-menjadi-pribadi-yang-lebih-baik--tidak-sulit--.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/lebih-percaya-diri-dengan-4-cara-mengatasi-rasa-malu-berlebihan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/curi-perhatian-wanita-dengan-5-cara-terlihat-tampan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-manfaat-senam-irama-yang-sangat-baik-untuk-tubuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/pentingnya-perilaku-hidup-bersih-dan-sehat-setiap-hari.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/buat-dirimu-lebih-kuat-dengan-5-cara-melatih-mental-ini.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/cara-jogging-yang-benar-dan-rasakan-manfaat-maksimalnya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-menghilangkan-kebiasaan-buruk-untuk-hidup-lebih-baik.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-menghilangkan-bosan-di-rumah-akibat-pandemi.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/lagi-bad-mood--ini-5-cara-balikin-mood-kamu-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/aktivitas-fisik-dan-peran-pentingnya-untuk-tubuh-kamu.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-jenis-olahraga-tanpa-alat-buat-di-rumah.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengenal-sistem-gerak-pada-tubuh.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/mengukur-jumlah-kalori-yang-terbakar-saat-bersepeda.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/bebaskan-pikiran-dengan-4-cara-mengatasi-overthinking-berikut-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/self-reward--apa-pentingnya-untuk-diri-sendiri-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/tips-jogging-saat-puasa-untuk-jaga-tubuh-selalu-fit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/manfaat-senam-yoga-secara-fisik-dan-mental.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/beragam-alat-alat-gym-dan-fungsinya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/lari-jarak-pendek-ada-tekniknya--apa-saja-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/olahraga-saat-puasa-itu-penting--tapi-perhatikan-durasinya.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/latihan-kardio-dan-fitness--mana-yang-harusnya-duluan-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/ragam-jenis-celana-pria-biar-lebih-gaya--kamu-punya-yang-mana-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-menenangkan-diri-yang-efektif-saat-dalam-kondisi-sulit.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/interval-training--olahraga-buat-kamu-yang-super-sibuk.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/efektif-atasi-mata-panda-dengan-cara-cara-berikut-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-olahraga-air-selain-renang-yang-menyegarkan.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-tips-memilih-parfum-untuk-pria-agar-makin-pede.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jenis-jenis-kain-hijab-dan-karakteristiknya--pilih-sesuai-momen.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-cara-tepat-dalam-menghadapi-masalah-yang-datang.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/berdamai-dengan-diri-sendiri-adalah-hal-yang-penting-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/4-cara-untuk-melatih-otak-untuk-berpikir-kreatif.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/cek-kesehatan-tubuh-sendiri-dengan-4-tes-berikut.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/yuk--ketahui-jumlah-kalori-yang-dibutuhkan-tubuh-setiap-hari-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/3-cara-mengukur-intensitas-olahraga--cukup-atau-berlebihan-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/5-cara-tampil-menarik-dengan-hijab.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/macam-macam-gaya-renang-dan-manfaatnya-masing-masing.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/cara-menjaga-kesehatan-otot-untuk-dukung-tubuh-bugar.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jaga-jantung-dan-tubuh-sehat-dengan-olahraga-kardio.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jalani-hubungan-lebih-baik-dengan-cara-bersikap-dewasa.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/gerak-tak-terbatas/jalan-dan-berlari--apa-bedanya--mana-yang-lebih-menyehatkan-.html"
+    to = "/id/zona-keringat/"
+[[redirects]]
+    from = "/id/preference-centre.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/serang-bau-badan.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/home-test.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/carousel.html"
+    to = "/id/"
+[[redirects]]
+    from = "/id/geraklampauibatas.html"
+    to = "/id/"

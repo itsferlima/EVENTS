@@ -1,0 +1,46 @@
+
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+    <style>
+        body{
+            background-color:rgb(133, 211, 235);
+        }
+    </style>
+  </head>
+  <body>
+    <h1>Iniciando estudos com DOM </h1>
+    <div>No plural se usa <strong>[]</strong>indicando a posição do elemento que deseja acessar</div>
+
+    <h2>Exemplos:</h2>
+
+    <div>Usando plural e singular</div>
+
+    <p id="msg">Usando com ID no elemento</p>
+
+    <div class="qry"> Usando query seletor</div>
+    
+
+    <script>
+
+    var div = window.document.getElementsByName('div')
+    var div = window.document.getElementsByTagName('div')[1]
+    window.document.write(div.innerText)
+
+
+    var p = window.document.getElementById('msg')
+    p.style.background='green'
+    
+
+    var query = window.document.querySelector('div.qry')
+    query.style.background='orange'
+
+
+    </script>
+  </body>
+  </html> 
